@@ -1,0 +1,4 @@
+.mytoast i{ 
+    /* mytoast的子类i变红 */
+    color: red !important;
+}

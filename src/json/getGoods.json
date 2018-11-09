@@ -1,0 +1,9 @@
+{"status":0,
+    "data":[
+    {"id":1,"title":"高贵迷人猫咪","add_time":"2018-08-23 12:34:25","click":100,"img_url":"src/images/shuijiao.jpg","sell_price":10000,"market_price":15000,"stock_num":6},
+    {"id":2,"title":"高贵迷人猫咪高贵迷人猫咪高贵迷人猫咪","add_time":"2018-08-23 12:34:25","click":100,"img_url":"src/images/Tulips.jpg","sell_price":10000,"market_price":15000,"stock_num":6},
+    {"id":3,"title":"幸福的房子","add_time":"2018-08-23 12:34:25","click":100,"img_url":"src/images/muwu.jpg","sell_price":109100,"market_price":15900,"stock_num":6},
+    {"id":4,"title":"高贵迷人猫咪","add_time":"2018-08-23 12:34:25","click":100,"img_url":"src/images/shuijiao.jpg","sell_price":10000,"market_price":15000,"stock_num":6},
+    {"id":5,"title":"高贵迷人猫咪","add_time":"2018-08-23 12:34:25","click":100,"img_url":"src/images/Koala.jpg","sell_price":10000,"market_price":15000,"stock_num":6}
+   
+]}
